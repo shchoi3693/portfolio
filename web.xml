@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<!-- *** web -->
+	<item name="Web">
+		<concept>Renewal of our own service NE Teacher PC and Mobile</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/web/neteacher01.png</imgsrc>
+		<durl>
+			<a href="https://www.neteacher.co.kr" target="_blank" rel="noopener noreferrer" title="NE Teacher 바로가기">PC</a>
+			<a href="https://m.neteacher.co.kr" target="_blank" rel="noopener noreferrer" title="NE Teacher 바로가기">Mobile</a>
+		</durl>
+	</item>
+	<item name="Web">
+		<concept>Renewal of our own service Build & Grow PC and Mobile</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/web/nebng01.png</imgsrc>
+		<durl>
+			<a href="https://www.nebuildandgrow.co.kr" target="_blank" rel="noopener noreferrer" title="NE Build and grow 바로가기">PC</a>
+			<a href="https://m.nebuildandgrow.co.kr" target="_blank" rel="noopener noreferrer" title="NE Build and grow 바로가기">Mobile</a>
+		</durl>
+	</item>
+	<item name="Web">
+		<concept>Maintenance of our own service iChallenge PC and Mobile</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/web/ne01.png</imgsrc>
+		<durl>
+			<a href="https://www.i-challenge.co.kr" target="_blank" rel="noopener noreferrer" title="아이챌린지 바로가기">PC</a>
+			<a href="https://m.i-challenge.co.kr" target="_blank" rel="noopener noreferrer" title="아이챌린지 바로가기">Mobile</a>
+		</durl>
+	</item>
+	<item name="Web">
+		<concept>Design and publishing our own service service shop</concept>
+		<color>#16B683, #DFF5EE, #7E7E7E</color>
+		<skill>Photoshop Illustrator<br/>Html5 css3 jQuery</skill>
+		<imgsrc>images/web/danFront04.png, images/web/danFront05.png, images/web/danFront06.png, images/web/danFront01.png, images/web/danFront02.png</imgsrc>
+		<imgClass>img_mobile</imgClass>
+		<durl><a href="http://seoheedoc.dothome.co.kr/dangolshop_front/status.html" target="_blank" rel="noopener noreferrer" title="단골샵 index">VISIT SITE</a></durl>
+	</item>
+	<item name="Web">
+		<concept>Design and publishing our own service Attic Project</concept>
+		<color>#377DFF, #D0E0FF, #71869D</color>
+		<skill>Html5 SCSS JavaScript (Bootstrap 5.0)</skill>
+		<imgsrc>images/web/aetic01.png, images/web/aetic02.png, images/web/aetic03.png, images/web/aetic04.png, images/web/aetic05.png, images/web/aetic06.png, images/web/aetic07.png, images/web/aetic08.png, images/web/aetic09.png, images/web/aetic10.png, images/web/aetic11.png</imgsrc>
+		<durl><a href="http://seoheedoc.dothome.co.kr/aetic/status.html" target="_blank" rel="noopener noreferrer" title="애틱프로젝트 index">VISIT SITE</a></durl>
+	</item>
+	<item name="Web">
+		<concept>RCS Lookup History List Manager Design and Publishing</concept>
+		<color>#3F4BA7, #F0F1FF, #0C49AD</color>
+		<skill>Photoshop Illustrator<br/>Html5 css3 jQuery</skill>
+		<imgsrc>images/web/rcs01.png, images/web/rcs02.png, images/web/rcs03.png, images/web/rcs04.png, images/web/rcs05.png</imgsrc>
+		<durl><a href="http://seoheedoc.dothome.co.kr/RCS_admin/status.html" target="_blank" rel="noopener noreferrer" title="RCS 조회 이력 관리자 index">VISIT SITE</a></durl>
+	</item>
+	<item name="Web">
+		<concept>Seongnam City Medical Center Clinical Cooperation Center Design and Publishing</concept>
+		<color>#855aa6, #2159b3, #1dbecf</color>
+		<skill>Photoshop Illustrator<br/>Html5 css3 jQuery</skill>
+		<imgsrc>images/web/scmc01.png, images/web/scmc02.png</imgsrc>
+		<durl><a href="https://refer.scmc.kr" target="_blank" rel="noopener noreferrer" title="성남시 의료원 진료협력센터 바로가기">VISIT SITE</a></durl>
+	</item>
+	<item name="Web">
+		<concept>LG U+ Sales Outlet Electronic Subscription Electronic Application Design and Publishing</concept>
+		<color>#E50179, #FEE4EA, #F1F1F1</color>
+		<skill>Photoshop Illustrator<br/>WebSquare5 css3 JavaScript</skill>
+		<imgsrc>images/device/paper01.png, images/device/paper02.png,images/device/paper03.png,images/device/paper04.png,images/device/paper05.png,images/device/paper06.png,images/device/paper07.png,images/device/paper08.png,images/device/paper09.png,images/device/paper10.png,images/device/paper11.png,images/device/paper12.png,images/device/paper13.png,images/device/paper14.png,images/device/paper15.png,images/device/paper16.png,images/device/paper17.png,images/device/paper18.png,images/device/paper19.png,images/device/paper20.png,images/device/paper21.png,images/device/paper22.png,images/device/paper23.png,images/device/paper24.png,images/device/paper25.png,images/device/paper26.png,images/device/paper27.png,images/device/paper28.png,images/device/paper29.png,images/device/paper30.png </imgsrc>
+	</item>
+	<item name="Web">
+		<concept>LG U+ Customer Center App Design and Publishing</concept>
+		<color>#922DC6, #E0D7F6, #EC018C</color>
+		<skill>Photoshop Illustrator<br/>Html5 css3 jQuery</skill>
+		<imgsrc>images/device/upapp01-1.png, images/device/upapp01-2.png, images/device/upapp01-3.png, images/device/upapp01-4.png, images/device/upapp01-10.png, images/device/upapp02.png, images/device/upapp03.png, images/device/upapp04.png, images/device/upapp05.png, images/device/upapp06.png, images/device/upapp07.png, images/device/upapp08.png, images/device/upapp09.png, images/device/upapp10.png, images/device/upapp11.png, images/device/upapp12.png, images/device/upapp13.png, images/device/upapp14.png, images/device/upapp15.png, images/device/upapp16.png, images/device/upapp17.png, images/device/upapp18.png, images/device/upapp19.png, images/device/upapp20.png, images/device/upapp21.png </imgsrc>
+		<imgClass>img_mobile</imgClass>
+	</item>
+	<item name="Web">
+		<concept>LG U+ Smart Consulting App Publishing</concept>
+		<color>#FA577C, #C45EF6, #268CFF</color>
+		<skill>WebSquare5 css3 JavaScript</skill>
+		<imgsrc>images/device/smart01.png, images/device/smart02.png, images/device/smart03.png, images/device/smart04.png, images/device/smart05.png, images/device/smart06.png, images/device/smart07.png, images/device/smart08.png, images/device/smart09.png, images/device/smart10.png, images/device/smart11.png, images/device/smart12.png</imgsrc>
+	</item>
+	<item name="Web">
+		<concept>LG U+ gCRM UX UI Design and Publishing</concept>
+		<color>#5E28B3, #E3007E, #5363C0</color>
+		<skill>Photoshop Illustrator<br/>WebSquare5 css3 JavaScript</skill>
+		<imgsrc>images/device/gCRM_icon.png, images/device/gCRM01.png, images/device/gCRM02.png, images/device/gCRM03.png, images/device/gCRM04.png, images/device/gCRM05.png, images/device/gCRM06.png, images/device/gCRM07.png</imgsrc>
+	</item>
+	<item name="Web">
+		<concept>KT Big Data UX UI Design</concept>
+		<color>#4367BD, #D4DDF1, #007AFE</color>
+		<skill>Photoshop Illustrator</skill>
+		<imgsrc>images/device/kt01.png, images/device/kt02.png, images/device/kt03.png, images/device/kt04.png, images/device/kt05.png, images/device/kt06.png</imgsrc>
+		<imgClass>img_mobile</imgClass>
+	</item>
+
+	<!-- *** Promotion -->
+	<item name="Promotion">
+		<concept>Our service Build and Grow Hug Promotion Responsive</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/promotion/hug01.png</imgsrc>
+		<durl><a href="https://www.nebuildandgrow.co.kr/hug" target="_blank" rel="noopener noreferrer" title="NE Build and grow HUG 바로가기">VISIT SITE</a></durl>
+	</item>
+	<item name="Promotion">
+		<concept>Promotion of our own service book</concept>
+		<skill>ASP css3 JavaScript(jQuery) GSAP</skill>
+		<imgsrc>images/promotion/nebooks.png</imgsrc>
+		<durl>
+			<a href="https://www.nebooks.co.kr/pages/event/2023/0901/books.asp" target="_blank" rel="noopener noreferrer" title="NE Books 프로모션 바로가기">PC</a>
+			<a href="https://m.nebooks.co.kr/pages/event/2023/0901/books.asp" target="_blank" rel="noopener noreferrer" title="NE Books 프로모션 바로가기">Mobile</a>
+		</durl>
+	</item>
+	<item name="Promotion">
+		<concept>Promotion of our own service events</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/promotion/neteacher.png</imgsrc>
+		<durl>
+			<a href="https://www.neteacher.co.kr/english/pages/event/2024/0215/event.asp" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Type 1</a>
+			<a href="https://www.neteacher.co.kr/chinese/pages/event/2024/0215/event.asp" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Type 2</a>
+			<a href="https://www.neteacher.co.kr/japanese/pages/event/2024/0215/event.asp" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Type 3</a>
+			<a href="https://m.neteacher.co.kr/english/pages/event/2024/0215/event.asp" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Mobile</a>
+		</durl>
+	</item>
+	<item name="Promotion">
+		<concept>Promotion of our own service events</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/promotion/neteacher02.png</imgsrc>
+		<durl>
+			<a href="http://seoheedoc.dothome.co.kr/neteacher_promotion" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">PC</a>
+			<a href="http://seoheedoc.dothome.co.kr/neteacher_promotion/mobile" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Mobile</a>
+		</durl>
+	</item>
+
+	<!-- *** Study -->
+	<item name="Study">
+		<concept>React Framework Study Movie List</concept>
+		<skill>React</skill>
+		<imgsrc>images/study/reactMovieApp.png</imgsrc>
+		<imgClass>img_mobile</imgClass>
+		<durl><a href="https://github.com/seohee0507/react-movie-app" target="_blank" rel="noopener noreferrer" title="github 바로가기">Github</a></durl>
+	</item>
+	<item name="Study">
+		<concept>React Framework Study YouTube List</concept>
+		<skill>React, 유튜브 API</skill>
+		<imgsrc>images/study/reactYtb.png</imgsrc>
+		<durl><a href="https://github.com/seohee0507/react-ytb" target="_blank" rel="noopener noreferrer" title="github 바로가기">Github</a></durl>
+	</item>
+	<item name="Study">
+		<concept>Main Screen Study</concept>
+		<color>#3467D4, #CFCFCF, #FFFFFF</color>
+		<skill>Html5 css3 jQuery</skill>
+		<imgsrc>images/web/goo.png</imgsrc>
+		<durl><a href="http://seoheedoc.dothome.co.kr/goo/html/main/main.html" target="_blank" rel="noopener noreferrer" title="스터디 구글 메인화면">VISIT SITE</a></durl>
+	</item>
+
+</items>
