@@ -2,7 +2,7 @@
 <items>
 	<!-- *** web -->
 	<item name="Web">
-		<concept>Renewal of our own service NE Teacher PC and Mobile</concept>
+		<concept>Renewal of our service NE Teacher PC and Mobile</concept>
 		<skill>ASP css3 JavaScript(jQuery)</skill>
 		<imgsrc>images/web/neteacher01.png</imgsrc>
 		<durl>
@@ -11,7 +11,7 @@
 		</durl>
 	</item>
 	<item name="Web">
-		<concept>Renewal of our own service Build & Grow PC and Mobile</concept>
+		<concept>Renewal of our service Build & Grow PC and Mobile</concept>
 		<skill>ASP css3 JavaScript(jQuery)</skill>
 		<imgsrc>images/web/nebng01.png</imgsrc>
 		<durl>
@@ -20,7 +20,7 @@
 		</durl>
 	</item>
 	<item name="Web">
-		<concept>Maintenance of our own service iChallenge PC and Mobile</concept>
+		<concept>Maintenance of our service iChallenge PC and Mobile</concept>
 		<skill>ASP css3 JavaScript(jQuery)</skill>
 		<imgsrc>images/web/ne01.png</imgsrc>
 		<durl>
@@ -29,7 +29,7 @@
 		</durl>
 	</item>
 	<item name="Web">
-		<concept>Design and publishing our own service service shop</concept>
+		<concept>Design and publishing our service The Shop</concept>
 		<color>#16B683, #DFF5EE, #7E7E7E</color>
 		<skill>Photoshop Illustrator<br/>Html5 css3 jQuery</skill>
 		<imgsrc>images/web/danFront04.png, images/web/danFront05.png, images/web/danFront06.png, images/web/danFront01.png, images/web/danFront02.png</imgsrc>
@@ -37,7 +37,7 @@
 		<durl><a href="http://seoheedoc.dothome.co.kr/dangolshop_front/status.html" target="_blank" rel="noopener noreferrer" title="단골샵 index">VISIT SITE</a></durl>
 	</item>
 	<item name="Web">
-		<concept>Design and publishing our own service Attic Project</concept>
+		<concept>Design and publishing our service Attic Project</concept>
 		<color>#377DFF, #D0E0FF, #71869D</color>
 		<skill>Html5 SCSS JavaScript (Bootstrap 5.0)</skill>
 		<imgsrc>images/web/aetic01.png, images/web/aetic02.png, images/web/aetic03.png, images/web/aetic04.png, images/web/aetic05.png, images/web/aetic06.png, images/web/aetic07.png, images/web/aetic08.png, images/web/aetic09.png, images/web/aetic10.png, images/web/aetic11.png</imgsrc>
@@ -92,13 +92,13 @@
 
 	<!-- *** Promotion -->
 	<item name="Promotion">
-		<concept>Our service Build and Grow Hug Promotion Responsive</concept>
+		<concept>The promotion of our service Build and Grow Hug Hompage (Responsive Web Design)</concept>
 		<skill>ASP css3 JavaScript(jQuery)</skill>
 		<imgsrc>images/promotion/hug01.png</imgsrc>
 		<durl><a href="https://www.nebuildandgrow.co.kr/hug" target="_blank" rel="noopener noreferrer" title="NE Build and grow HUG 바로가기">VISIT SITE</a></durl>
 	</item>
 	<item name="Promotion">
-		<concept>Promotion of our own service book</concept>
+		<concept>The promotion of our service book</concept>
 		<skill>ASP css3 JavaScript(jQuery) GSAP</skill>
 		<imgsrc>images/promotion/nebooks.png</imgsrc>
 		<durl>
@@ -107,7 +107,7 @@
 		</durl>
 	</item>
 	<item name="Promotion">
-		<concept>Promotion of our own service events</concept>
+		<concept>The promotion of our service events</concept>
 		<skill>ASP css3 JavaScript(jQuery)</skill>
 		<imgsrc>images/promotion/neteacher.png</imgsrc>
 		<durl>
@@ -118,7 +118,7 @@
 		</durl>
 	</item>
 	<item name="Promotion">
-		<concept>Promotion of our own service events</concept>
+		<concept>The promotion of our service events</concept>
 		<skill>ASP css3 JavaScript(jQuery)</skill>
 		<imgsrc>images/promotion/neteacher02.png</imgsrc>
 		<durl>
@@ -129,15 +129,15 @@
 
 	<!-- *** Study -->
 	<item name="Study">
-		<concept>React Framework Study Movie List</concept>
+		<concept>React Framework Movie List</concept>
 		<skill>React</skill>
 		<imgsrc>images/study/reactMovieApp.png</imgsrc>
 		<imgClass>img_mobile</imgClass>
 		<durl><a href="https://github.com/seohee0507/react-movie-app" target="_blank" rel="noopener noreferrer" title="github 바로가기">Github</a></durl>
 	</item>
 	<item name="Study">
-		<concept>React Framework Study YouTube List</concept>
-		<skill>React, 유튜브 API</skill>
+		<concept>React Framework YouTube List</concept>
+		<skill>React, YouTube API</skill>
 		<imgsrc>images/study/reactYtb.png</imgsrc>
 		<durl><a href="https://github.com/seohee0507/react-ytb" target="_blank" rel="noopener noreferrer" title="github 바로가기">Github</a></durl>
 	</item>
